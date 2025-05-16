@@ -1,6 +1,6 @@
 Requirements
 ---------------
-OpenCV
+OpenCV , 
 Numpy
 Pillow
 
