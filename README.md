@@ -1,7 +1,7 @@
 Requirements
 ---------------
 OpenCV , 
-Numpy
+Numpy and
 Pillow
 
 
